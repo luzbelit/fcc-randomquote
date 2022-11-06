@@ -10,4 +10,4 @@ Creado con REACT y Vite.
     <img src="https://res.cloudinary.com/dca12d5oq/image/upload/v1667746929/Firefox_Screenshot_2022-11-06T15-00-42.981Z_b2dfmp.png" width="800px"</img> 
 </div>
 
-<a><h3>LIVE</h3></a>
+<a href="https://fcc-generatequote.netlify.app/"><h3>LIVE</h3></a>
