@@ -109,6 +109,47 @@ body {
   transition: ease-in-out 1s;
 }
 
-@media (max-width: 420px) {
-  
+@media (max-width: 435px) {
+  #quote-box{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+  }
+
+  #quote-box .quote-text {
+    font-size: 2.21rem;
+  }
+
+  #quote-box .quote-author {
+    text-align: center;
+  }
+
+  #quote-box .buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 400px) {
+  #quote-box{
+    margin: auto;
+}
+
+  #quote-box .quote-text {
+    font-size: 2.23rem;
+    font-weight: 30;
+  }
+
+  #quote-box .quote-author {
+    text-align: center;
+  }
+
+  #quote-box .buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
 }

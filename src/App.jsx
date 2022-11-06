@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
-import { quotes } from "../quotes"
-import { COLORS_ARRAY } from "../colors"
+import { quotes } from "../services/quotes"
+import { COLORS_ARRAY } from "../services/colors"
 import styles from './styles.css'
 
 
