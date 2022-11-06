@@ -29,7 +29,7 @@ export const quotes = [
         autor: 'Guasones'
     },
     {
-        quote: 'La pobre niña en desamparo Que me ofrecía su amistad Me mostró el oscuro infierno Del que ya no pude escapar Bla, bla, bla ', 
+        quote: 'La pobre niña en desamparo Que me ofrecía su amistad Me mostró el oscuro infierno Del que ya no pude escapar Bla, bla, bla', 
         autor: 'Guasones'
     },
     {
@@ -41,7 +41,7 @@ export const quotes = [
         autor: 'Guasones'
     },
     {
-        quote: 'Fuimos mucho más que nada, fuimos la mentira, fuimos lo peor. Fuimos los soldados a la madrugada por esa ambición ', 
+        quote: 'Fuimos mucho más que nada, fuimos la mentira, fuimos lo peor. Fuimos los soldados a la madrugada por esa ambición', 
         autor: 'Guasones'
     },
     {
@@ -53,20 +53,20 @@ export const quotes = [
         autor: 'Guasones'
     },
     {
-        quote: 'Siempre la desgracia termina en la farmacia Es hora de cortarla no lo pienses mas cual es el problema? el precio de la pena no hay nada mas rico que la libertad ', 
+        quote: 'Siempre la desgracia termina en la farmacia Es hora de cortarla no lo pienses mas cual es el problema? el precio de la pena no hay nada mas rico que la libertad', 
         autor: 'Guasones'
     },
     {
-        quote: 'Fui tu sereno, tú vago nocturno tus ojos en fuego se quieren vengar tus vicios, los míos, tu sexo y mi sexo hoy mi pasado me vuelve a atrapar ', 
+        quote: 'Fui tu sereno, tú vago nocturno tus ojos en fuego se quieren vengar tus vicios, los míos, tu sexo y mi sexo hoy mi pasado me vuelve a atrapar', 
         autor: 'Guasones'
     },
     //FRASES DE LOS PIOJOS
     {
-        quote: 'Quizá no sea el vino, quizá no sea el postre, quizá no sea nada, pero hay tanta belleza tirada en la mesa desnuda, toda rebalsada.  ', 
+        quote: 'Quizá no sea el vino, quizá no sea el postre, quizá no sea nada, pero hay tanta belleza tirada en la mesa desnuda, toda rebalsada.', 
         autor: 'Los Piojos'
     },
     {
-        quote: 'Dame un poquito de tu amor para el corazón. Dame un poquito por favor, que no viene mal. Un farolito de ilusión, para el corazón. Déjame que te vea cerquita, cerquita por hoy, que no viene mal ', 
+        quote: 'Dame un poquito de tu amor para el corazón. Dame un poquito por favor, que no viene mal. Un farolito de ilusión, para el corazón. Déjame que te vea cerquita, cerquita por hoy, que no viene mal', 
         autor: 'Los Piojos'
     },
     {
@@ -74,23 +74,23 @@ export const quotes = [
         autor: 'Los Piojos'
     },
     {
-        quote: 'Fasolita querido a ver cuando venís por acá. Fasolita querido que te quiero ver te quiero contar, lo mal que se vive, lo bien que se está. ', 
+        quote: 'Fasolita querido a ver cuando venís por acá. Fasolita querido que te quiero ver te quiero contar, lo mal que se vive, lo bien que se está.', 
         autor: 'Los Piojos'
     },
     {
-        quote: 'Al atardecer, cruza la ciudad, al atardecer, las calles de tierra van quedando atrás, al atardecer hoy como estará, cuánto sacaré, comisario sucio, ni lo quiero ver, al atardecer. ', 
+        quote: 'Al atardecer, cruza la ciudad, al atardecer, las calles de tierra van quedando atrás, al atardecer hoy como estará, cuánto sacaré, comisario sucio, ni lo quiero ver, al atardecer.', 
         autor: 'Los Piojos'
     },
     {
-        quote: 'A veces si, a veces te pasa, sobre todo cuando dejas tu casa y ves, solo estoy sin dirección, como un taxi boy voy. ', 
+        quote: 'A veces si, a veces te pasa, sobre todo cuando dejas tu casa y ves, solo estoy sin dirección, como un taxi boy voy.', 
         autor: 'Los Piojos'
     },
     {
-        quote: 'Ando ganas de encontrarte, de una buena vez por todas, el invierno largo se fue, y ya cambiaron las modas ', 
+        quote: 'Ando ganas de encontrarte, de una buena vez por todas, el invierno largo se fue, y ya cambiaron las modas', 
         autor: 'Los Piojos'
     },
     {
-        quote: 'Muy despacito, sobre el abismo, volaré… Jardines de calma feroz, un sol de infinita paciencia, los locos cantan la canción y aplauden ', 
+        quote: 'Muy despacito, sobre el abismo, volaré… Jardines de calma feroz, un sol de infinita paciencia, los locos cantan la canción y aplauden', 
         autor: 'Los Piojos'
     },
     {
@@ -106,7 +106,7 @@ export const quotes = [
         autor: 'Los Piojos'
     },
     {
-        quote: 'Quiero que te duermas como un sol, que se acuesta en un campo de trigo. Tengo aquí en mi pecho un corazón, igualito al hueco de tu ombligo ', 
+        quote: 'Quiero que te duermas como un sol, que se acuesta en un campo de trigo. Tengo aquí en mi pecho un corazón, igualito al hueco de tu ombligo', 
         autor: 'Los Piojos'
     },
     {
@@ -118,7 +118,7 @@ export const quotes = [
         autor: 'Los Piojos'
     },
     {
-        quote: 'Y si viene un río gris que separe al mundo en dos , quisiera quedar del mismo lado nena, que vos ', 
+        quote: 'Y si viene un río gris que separe al mundo en dos , quisiera quedar del mismo lado nena, que vos', 
         autor: 'Los Piojos'
     },
     {
@@ -130,7 +130,7 @@ export const quotes = [
         autor: 'Los Piojos'
     },
     {
-        quote: 'Como vas girando voy, dónde vas a parar hoy. Tengo ya hasta la mitad, toda bien cubierta ves, sobre mi calle estás, y yo ya te coroné ', 
+        quote: 'Como vas girando voy, dónde vas a parar hoy. Tengo ya hasta la mitad, toda bien cubierta ves, sobre mi calle estás, y yo ya te coroné', 
         autor: 'Los Piojos'
     },
     {
@@ -148,7 +148,7 @@ export const quotes = [
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Tu presencia es mi pesadilla ', 
+        quote: 'Tu presencia es mi pesadilla', 
         autor: 'Soda Stereo'
     },
     {
@@ -156,7 +156,7 @@ export const quotes = [
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Florecer mirándote a los ojos ', 
+        quote: 'Florecer mirándote a los ojos', 
         autor: 'Soda Stereo'
     },
     {
@@ -164,23 +164,23 @@ export const quotes = [
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Algún tiempo atrás pensé en escribirte, pero nunca sorteé las trampas del amor ', 
+        quote: 'Algún tiempo atrás pensé en escribirte, pero nunca sorteé las trampas del amor', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Una piedra en el agua seca por dentro, así se siente cuando la verdad es la palabra sometida ', 
+        quote: 'Una piedra en el agua seca por dentro, así se siente cuando la verdad es la palabra sometida', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'No vuelvas sin razón ', 
+        quote: 'No vuelvas sin razón', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Quiero encontrar un paraíso y no volver ', 
+        quote: 'Quiero encontrar un paraíso y no volver', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'De mí, solo lo que ves conseguirás de mí, de mí, verás…lo que quiero ', 
+        quote: 'De mí, solo lo que ves conseguirás de mí, de mí, verás…lo que quiero', 
         autor: 'Soda Stereo'
     },
     {
@@ -188,15 +188,15 @@ export const quotes = [
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Tarda en llegar y al final, al final hay recompensa ', 
+        quote: 'Tarda en llegar y al final, al final hay recompensa', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'El eclipse no fue parcial y cegó nuestras miradas, te vi que llorabas, te vi que llorabas por el ', 
+        quote: 'El eclipse no fue parcial y cegó nuestras miradas, te vi que llorabas, te vi que llorabas por el', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Así se siente cuando la verdad es la palabra sometida ', 
+        quote: 'Así se siente cuando la verdad es la palabra sometida', 
         autor: 'Soda Stereo'
     },
     {
@@ -204,19 +204,19 @@ export const quotes = [
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Todo volverá a ser como fue ', 
+        quote: 'Todo volverá a ser como fue', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Te mire tristemente, no hay más tiempo que perder ', 
+        quote: 'Te mire tristemente, no hay más tiempo que perder', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'Como un extraño tic nervioso, arrojo palabras ', 
+        quote: 'Como un extraño tic nervioso, arrojo palabras', 
         autor: 'Soda Stereo'
     },
     {
-        quote: 'No fue suficiente fé ', 
+        quote: 'No fue suficiente fé', 
         autor: 'Soda Stereo'
     },
      //FRASES DE LAS PASTILLAS DEL ABUELO
@@ -311,7 +311,7 @@ export const quotes = [
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'Ella si que era el fuego, ella si que bailaba en las llamas ', 
+        quote: 'Ella si que era el fuego, ella si que bailaba en las llamas', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
@@ -323,11 +323,11 @@ export const quotes = [
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'La vida sin problemas es pasar el tiempo a lo bobo ', 
+        quote: 'La vida sin problemas es pasar el tiempo a lo bobo', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'Si es tan duro vivir como un duro ', 
+        quote: 'Si es tan duro vivir como un duro', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
@@ -335,27 +335,27 @@ export const quotes = [
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'No se si no me gusta más que el rock, nunca la vi llorar, si no va sin freno no anda bien ni me encadena a su show ', 
+        quote: 'No se si no me gusta más que el rock, nunca la vi llorar, si no va sin freno no anda bien ni me encadena a su show', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'Pero a los ciegos no le gustan los sordos, y un corazón no se endurece porque sí ', 
+        quote: 'Pero a los ciegos no le gustan los sordos, y un corazón no se endurece porque sí', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'Es una copa de lo mejor cuando se ríe ', 
+        quote: 'Es una copa de lo mejor cuando se ríe', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'No te quedo sueño por vengar y ya no esperas que te jueguen limpio nunca más ', 
+        quote: 'No te quedo sueño por vengar y ya no esperas que te jueguen limpio nunca más', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: '¿Y cuanto vale dormir tan custodiado, de expertos cínicos y botones dorados? ', 
+        quote: '¿Y cuanto vale dormir tan custodiado, de expertos cínicos y botones dorados?', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'Se desgracio el campeón del híper-fútbol, los oficiales eran saharadies abajo en la tabla ', 
+        quote: 'Se desgracio el campeón del híper-fútbol, los oficiales eran saharadies abajo en la tabla', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
@@ -371,11 +371,11 @@ export const quotes = [
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'Aquí gracias a Dios uno no cree en lo que oye ', 
+        quote: 'Aquí gracias a Dios uno no cree en lo que oye', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {
-        quote: 'Un gran remedio para un gran mal, amores como flechas van ', 
+        quote: 'Un gran remedio para un gran mal, amores como flechas van', 
         autor: 'Patricio Rey y sus Redonditos de Ricota'
     },
     {

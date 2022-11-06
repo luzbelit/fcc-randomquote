@@ -111,12 +111,18 @@ body {
 
 @media (max-width: 435px) {
   #quote-box{
-    width: 100%;
+    width: 100%px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     margin: auto;
   }
 
   #quote-box .quote-text {
-    font-size: 2.21rem;
+    font-size: 2rem;
+    text-align: center;
   }
 
   #quote-box .quote-author {
@@ -125,31 +131,38 @@ body {
 
   #quote-box .buttons{
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 }
 
 @media (max-width: 400px) {
   #quote-box {
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     margin: auto;
 }
 
   #quote-box .quote-text {
-    font-size: 2.23rem;
+    font-size: 2.5rem;
     font-weight: 30;
+    text-align: center;
+    
   }
 
   #quote-box .quote-author {
     text-align: center;
   }
-
   #quote-box .buttons{
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
+
 }
